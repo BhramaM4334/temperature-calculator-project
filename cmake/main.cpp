@@ -21,9 +21,11 @@ calc::TempCalc calculate;
 data_save::Memory_calc memory;
 //do
 int repetitions = 0;
+
 while(true){
-repetitions++;
-system("clear"); //clears linux terminal
+//
+ repetitions++;
+ system("clear"); //clears linux terminal
 	
 	double celcius=0;
 	char choice;	
@@ -32,16 +34,17 @@ system("clear"); //clears linux terminal
 		
 	display::display_choice();
 	cin>>celcius;
+	
 	display::display_calc(celcius);
 	
 	display::display_memory();
 	
 	cout<<"do you want to end this loop of thing?????????? (1 for true, other than that just ball with it)\n\n";
 		cin>>choice;
+	cout<<"executed "<<repetitions<<" times"<<endl<<endl;
 		if(choice == '1') break;
 		
 //	system("pause");
-	cout<<"executed "<<repetitions<<" times"<<endl<<endl;
 
 //linux doesnt have the system thing nkjiegrfa
 

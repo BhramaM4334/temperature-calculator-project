@@ -25,18 +25,21 @@ namespace data_save{
  //also no need to deeit temp_calc because yes
 	private:
  		vector<double>memoryTemp; //
+ 		
  	public:
  		//memory insert
  		void insertMem(double inp){
  			memoryTemp.push_back(inp);
 		 }
 		//accessing memory 
-		double accMem(int t) const{		//if return with value, use a data type
-			return memoryTemp.at(t);
-		}
+		double accMem(int t) const;		//if return with value, use a data type
+		//	return memoryTemp.at(t);
+		
+		
 		size_t sizeMem(int t) const{	//size_t for sizings
 			return memoryTemp.size();
 		}
+		
  };
 		
 	

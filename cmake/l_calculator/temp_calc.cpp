@@ -11,6 +11,7 @@ namespace calc{
 //namespace needs to be the same since calc.h uses calc
 //everything needs to have const too
 //basically everything follows
+
 	double TempCalc::CtoK(double c) const{
 	  return c + 273.15; //celcius to kelvin = 0 + 273.15
 	  
@@ -25,5 +26,13 @@ namespace calc{
 	}
 	
 	
+	
+}
+
+namespace data_save{		//example if memory calc is not defined
+	
+	double Memory_calc::accMem(int t) const{	
+	return memoryTemp.at(t);	//memory temp js access it i guess (maybe it will work)
+	}
 	
 }

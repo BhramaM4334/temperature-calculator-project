@@ -19,6 +19,7 @@ namespace display{
 	}
 	
 	void display_calc(double c){
+		
 	calc::TempCalc calculate;		//i dont EVNE know how this works i guess (note 9 minutes before deadline)
 	double f = calculate.CtoF(c);
 	double k = calculate.CtoK(c);
@@ -30,6 +31,7 @@ namespace display{
 			  "added to memory (just kidding it hasnt been added yet lololol		\n\n\n\n";
 		
 	}
+	
 	void display_memory(){
 		cout<<"===================================================================\n\n";
 	}

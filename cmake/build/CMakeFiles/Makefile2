@@ -127,8 +127,8 @@ l_display/clean: l_display/CMakeFiles/l_display.dir/clean
 # Target rules for target CMakeFiles/TempCalc_app.dir
 
 # All Build rule for target.
-CMakeFiles/TempCalc_app.dir/all: l_display/CMakeFiles/l_display.dir/all
 CMakeFiles/TempCalc_app.dir/all: l_calculator/CMakeFiles/l_calculator.dir/all
+CMakeFiles/TempCalc_app.dir/all: l_display/CMakeFiles/l_display.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TempCalc_app.dir/build.make CMakeFiles/TempCalc_app.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TempCalc_app.dir/build.make CMakeFiles/TempCalc_app.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/bhrama/--ABINARA-1/-Projects/temperature calculator/cmake/build/CMakeFiles" --progress-num=1,2 "Built target TempCalc_app"
