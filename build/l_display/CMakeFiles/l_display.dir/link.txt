@@ -1,0 +1,2 @@
+/usr/bin/ar qc libl_display.a CMakeFiles/l_display.dir/hud.cpp.o
+/usr/bin/ranlib libl_display.a

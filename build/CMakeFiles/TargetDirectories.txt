@@ -1,0 +1,9 @@
+/home/bhrama/--ABINARA-1/-Projects/temperature calculator/build/CMakeFiles/TempCalc_app.dir
+/home/bhrama/--ABINARA-1/-Projects/temperature calculator/build/CMakeFiles/edit_cache.dir
+/home/bhrama/--ABINARA-1/-Projects/temperature calculator/build/CMakeFiles/rebuild_cache.dir
+/home/bhrama/--ABINARA-1/-Projects/temperature calculator/build/l_calculator/CMakeFiles/l_calculator.dir
+/home/bhrama/--ABINARA-1/-Projects/temperature calculator/build/l_calculator/CMakeFiles/edit_cache.dir
+/home/bhrama/--ABINARA-1/-Projects/temperature calculator/build/l_calculator/CMakeFiles/rebuild_cache.dir
+/home/bhrama/--ABINARA-1/-Projects/temperature calculator/build/l_display/CMakeFiles/l_display.dir
+/home/bhrama/--ABINARA-1/-Projects/temperature calculator/build/l_display/CMakeFiles/edit_cache.dir
+/home/bhrama/--ABINARA-1/-Projects/temperature calculator/build/l_display/CMakeFiles/rebuild_cache.dir

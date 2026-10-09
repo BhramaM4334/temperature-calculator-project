@@ -1,0 +1,2 @@
+/usr/bin/ar qc libl_calculator.a CMakeFiles/l_calculator.dir/temp_calc.cpp.o
+/usr/bin/ranlib libl_calculator.a
