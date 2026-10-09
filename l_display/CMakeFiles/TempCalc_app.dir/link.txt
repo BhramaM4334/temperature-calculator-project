@@ -1,1 +1,0 @@
-/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/TempCalc_app.dir/link.d CMakeFiles/TempCalc_app.dir/main.cpp.o -o TempCalc_app  l_display/libl_display.a l_calculator/libl_calculator.a

@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/bhrama/--ABINARA-1/-Projects/temperature calculator/cmake/build/cmake_install.cmake",
+		"/home/bhrama/--ABINARA-1/-Projects/temperature calculator/cmake/build/l_calculator/cmake_install.cmake",
+		"/home/bhrama/--ABINARA-1/-Projects/temperature calculator/cmake/build/l_display/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
